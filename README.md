@@ -127,6 +127,3 @@ This repository contains documentation and resources for migrating servers from 
 - [Azure Migrate Documentation](https://docs.microsoft.com/en-us/azure/migrate/)
 - [Azure Virtual Machines](https://docs.microsoft.com/en-us/azure/virtual-machines/)
 - Full technical documentation in the main repository
-
-## Maintained By
-Expert Cloud Consulting
